@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticaFinal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Hello blank fragment 1</string>
+    <string name="hello_blank_fragment2">Hello blank fragment 2</string>
+    <string name="btn1_txt">Button 1</string>
+    <string name="btn2_txt">Button 2</string>
+    <string name="aboutMenu_txt">About</string>
+</resources>
